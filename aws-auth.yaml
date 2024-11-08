@@ -17,5 +17,5 @@ metadata:
   creationTimestamp: "2024-11-08T05:28:58Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "2098"
+  # resourceVersion: "2098"  #remove (new version will cfaete)
   uid: 5ad4f822-5774-498f-bd7e-321f60b6452d
